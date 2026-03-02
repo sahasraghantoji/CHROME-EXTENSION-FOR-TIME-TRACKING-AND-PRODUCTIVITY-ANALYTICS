@@ -13,3 +13,7 @@
 *MENTOR*: NEELA SANTHOSH
 
 *DESCRIPTION*: I have completed Internship Task 4 at CODTECH by developing a Chrome extension that tracks the time users spend on different websites and provides detailed productivity analytics. The extension includes a backend to store user data and a dashboard to visualize analytics. It classifies websites as productive (e.g., coding platforms) or unproductive (e.g., social media) and generates weekly productivity reports to help users monitor and improve their online efficiency.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/53465aa5-c8c3-400b-9554-55c655e0d3e8)
